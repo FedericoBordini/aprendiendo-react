@@ -25,5 +25,5 @@ const Button = ({text}) => {
 
 
 /*
-  Este es el punto de inicio de la aplicacion
+  Este es el punto de inicio de la aplicación que se vera en pantalla 
 */
